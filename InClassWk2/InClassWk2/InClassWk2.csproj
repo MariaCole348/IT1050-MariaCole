@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\maria\source\repos\Week 2\Week 2 In Class Work.cs" Link="Week 2 In Class Work.cs" />
+  </ItemGroup>
+
+</Project>
